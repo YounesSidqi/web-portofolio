@@ -1,0 +1,1 @@
+alert("Thank you for visiting My Web q(≧▽≦q)")
